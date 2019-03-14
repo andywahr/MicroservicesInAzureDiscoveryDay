@@ -18,10 +18,10 @@ The idea is to go over theory and concept in the morning and get to the Hack as 
 
 | Time          | Topic
 | ------------- |:---------------------------------------------------------------
-| 09:00–09:30   | Registration - Show [KickOff Presentation](./Microservices_ArchApproach_KickOff.pptx) 5 minutes before
-| 09:30-10:15   | [Microservices Overview](./Microservics_Overview.pptx)
+| 09:00–09:30   | Registration - Show [KickOff Presentation](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay/blob/master/Microservices_ArchApproach_KickOff.pptx?raw=true) 5 minutes before
+| 09:30-10:15   | [Microservices Overview](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay/blob/master/Microservics_Overview.pptx?raw=true)
 | 10:15-10:30   | Break
-| 10:30-11:30   | [Microservices in Azure](./Microservics_In_Azure.pptx)
+| 10:30-11:30   | [Microservices in Azure](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay/blob/master/Microservics_In_Azure.pptx?raw=true)
 | 11:30-12:00   | [Hack prep](https://github.com/microsoft/WhatTheHack/blob/master/009-MicroservicesInAzure/Host/Guides/Lectures.pptx?raw=true) - Stop at Slide 13 "Contoso Travel Web Overview"
 | 12:00-12:30   | Lunch
 | 12:30-16:00   | Hack: Deploying a working Microservices application in Azure (https://github.com/microsoft/WhatTheHack/blob/master/009-MicroservicesInAzure/Host/Guides/Lectures.pptx?raw=true)
