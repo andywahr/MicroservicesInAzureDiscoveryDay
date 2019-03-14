@@ -24,5 +24,5 @@ The idea is to go over theory and concept in the morning and get to the Hack as 
 | 10:30-11:30   | [Microservices in Azure](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay/blob/master/Microservices_in_Azure.pptx?raw=true)
 | 11:30-12:00   | [Hack prep](https://github.com/microsoft/WhatTheHack/blob/master/009-MicroservicesInAzure/Host/Guides/Lectures.pptx?raw=true) - Stop at Slide 13 "Contoso Travel Web Overview"
 | 12:00-12:30   | Lunch
-| 12:30-16:00   | Hack: Deploying a working Microservices application in Azure [Hack Deck] (https://github.com/microsoft/WhatTheHack/blob/master/009-MicroservicesInAzure/Host/Guides/Lectures.pptx?raw=true) - Starting With Slide 13
+| 12:30-16:00   | Hack: Deploying a working Microservices application in Azure [Hack Deck](https://github.com/microsoft/WhatTheHack/blob/master/009-MicroservicesInAzure/Host/Guides/Lectures.pptx?raw=true) - Starting With Slide 13
 | 16:00-17:00   | Recap
